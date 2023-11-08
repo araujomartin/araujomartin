@@ -1,6 +1,6 @@
 # Hi 👋, I'm Martin Araujo
 
-System analyst| Angular Devoloper | Frontend Developer | Software Developer
+**System analyst • Angular Devoloper • Frontend Developer • Software Developer**
 
 
 ## Skills 🤓
